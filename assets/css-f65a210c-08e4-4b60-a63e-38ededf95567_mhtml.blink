@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap { background-color: rgb(129, 138, 145); color: rgb(255, 255, 255); }
+
+.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap { color: rgb(129, 138, 145); border: 3px solid; background-color: transparent; }
+
+.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap { margin-top: 8px; }
+
+.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter { width: 1em; height: 1em; }
+
+.elementor-widget-text-editor .elementor-drop-cap { float: left; text-align: center; line-height: 1; font-size: 50px; }
+
+.elementor-widget-text-editor .elementor-drop-cap-letter { display: inline-block; }

@@ -1,0 +1,3 @@
+@charset "utf-8";
+
+:root { --global--color-background: #39414d; --global--color-primary: #fff; --global--color-secondary: #fff; --button--color-background: #fff; --button--color-text-hover: #fff; --table--stripes-border-color: rgba(240, 240, 240, 0.15); --table--stripes-background-color: rgba(240, 240, 240, 0.15); }
