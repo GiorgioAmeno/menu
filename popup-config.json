@@ -1,7 +1,7 @@
 {
   "delayMs": 10000,
   "title": "Offerta speciale",
-  "textHtml": "<p>Complimenti: hai vinto una bibita omaggio.</p><p><strong>Dì al personale la parola magica di oggi: "SUPERPAPERA".</strong></p>",
+  "textHtml": "<p>Complimenti: hai vinto una bibita omaggio.</p><p><strong>Dì al personale la parola magica di oggi: SUPERPAPERA.</strong></p>",
   "popupImage": "assets/borgo-antico.jpg",
   "popupImageAlt": "Borgo Antico",
   "animationImage": "assets/faccione.png",
