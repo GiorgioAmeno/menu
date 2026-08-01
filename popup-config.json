@@ -4,7 +4,7 @@
   "textHtml": "<p>Inserisci qui il testo del tuo popup.</p><p><strong>Puoi modificarlo senza toccare il codice.</strong></p>",
   "popupImage": "assets/borgo-antico.jpg",
   "popupImageAlt": "Borgo Antico",
-  "animationImage": "assets/logopizza-mini.png",
+  "animationImage": "assets/faccione.png",
   "animationImageAlt": "Animazione",
   "continueUrl": "https://pizzait.it/",
   "continueButtonText": "Continua",
